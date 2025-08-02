@@ -26,7 +26,6 @@ TELCO CHURN PROJECT/
 ├── 03_model_evaluation_and_analysis.ipynb    # Model evaluation and business insights
 ├── 04_advanced_model_improvement.ipynb       # Advanced modeling and optimization
 ├── requirements.txt                          # Project dependencies
-├── OutlineProject.txt                        # Project mission brief
 ├── data/
 │   ├── raw/
 │   │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
