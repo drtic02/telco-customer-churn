@@ -70,7 +70,7 @@ TELCO CHURN PROJECT/
 - Feature importance analysis
 - Business insights and recommendations
 
-### Phase 4: Advanced Model Improvement *(NEW)*
+### Phase 4: Advanced Model Improvement
 - **Advanced Feature Engineering**: Created 12 new features (customer value, lifecycle, service usage)
 - **Hyperparameter Optimization**: RandomizedSearchCV for model tuning
 - **Class Imbalance Handling**: SMOTE oversampling technique
@@ -227,11 +227,7 @@ This project was developed as a complete data science workflow demonstration. Fe
 
 ## 📄 License
 
-This project is for educational and demonstration purposes.
-
-## 📞 Contact
-
-For questions about this project or collaboration opportunities, please reach out through GitHub.
+This project is under the MIT license.
 
 ---
 
